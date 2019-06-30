@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT reactnativetest2_5372.wsgi:application
